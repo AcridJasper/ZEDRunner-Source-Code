@@ -1,2 +1,5 @@
-# ZEDRunner-Source-Code
-Source code for zed run gamemode, that janky ahh concept
+# ZEDRunner Source code for [Killing Floor 2](https://store.steampowered.com/app/232090/Killing_Floor_2/)
+
+the Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3361030014&tscn=1770496791
+
+to compile this you need to download the mod which holds all the assets (and preferablly rename everything before compiling)
